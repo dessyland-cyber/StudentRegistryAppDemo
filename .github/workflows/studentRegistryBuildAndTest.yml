@@ -17,6 +17,7 @@ jobs:
 
     permissions:
      contents: write
+     pages: write
 
     strategy:
       matrix:
